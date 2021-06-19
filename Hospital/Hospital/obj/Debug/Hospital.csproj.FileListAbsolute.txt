@@ -1,0 +1,26 @@
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\Hospital\Hospital\obj\Debug\Hospital.Form3.resources
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.Pruebas.resources
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.Pdistancia.resources
+C:\Users\DELL\Desktop\aaa-main\Hospital\Hospital\obj\Debug\Hospital.FormulaNP.resources
